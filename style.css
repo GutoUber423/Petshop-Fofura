@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fffaf0;
+  color: #333;
+}
+
+header {
+  background-color: #f9c6d3;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #444;
+  font-weight: bold;
+}
+
+.hero {
+  background-color: #ffe4e1;
+  padding: 40px;
+  text-align: center;
+}
+
+.servicos, .contato {
+  padding: 20px;
+  background-color: #fff;
+}
+
+.servicos ul {
+  list-style: none;
+  padding: 0;
+}
+
+.servicos li {
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #f9c6d3;
+  text-align: center;
+  padding: 10px;
+  font-size: 0.9em;
+}
